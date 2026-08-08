@@ -130,7 +130,7 @@ button{font-family:inherit;}
   font-family:var(--font-mono); font-size:10.5px; padding:3px 8px; border-radius:20px;
   border:1px solid var(--border); color:var(--text-muted); white-space:nowrap;
 }
-.algo-card h3{font-family:var(--font-display); font-size:17px; margin:0; line-height:1.28;}
+.algo-card h3{font-family:var(--font-display); font-size:17px; margin:0; line-height:1.28; color:#F2ECDD;}
 .algo-card p{font-size:13px; color:var(--text-muted); line-height:1.5; margin:0; flex:1;}
 .algo-card canvas{display:block; width:100%; height:46px;}
 .algo-foot{display:flex; align-items:center; justify-content:space-between; font-family:var(--font-mono); font-size:11.5px;}
